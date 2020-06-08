@@ -1,7 +1,24 @@
 {
-"students": [ { "id": 1, "serial": "265373", "name": "ALICINO", "firstName":
-"GIUSEPPE", "courseId": 1, "groupId": 0 } ],
-"courses": [ { "id": 1, "name": "Applicazioni Internet", "path": "applicazioniinternet"
-} ],
-"groups": [ { "id": 1, "name": "Calvary" } ]
+  "students": [ 
+    
+  { "id": "222333", name: "Folcarelli", "firstName": "Giovanni", "courseId": 1, "groupId": 0 },
+  { "id": "254663", "name": "Giai", "firstName": "Andrea", "courseId": 1, "groupId": 0 },
+  { "id": "276554", "name": "Angarano", "firstName": "Simone", "courseId": 1, "groupId": 0 },
+  { "id": "266211", "name": "Zandri", "firstName": "Elena Maria", "courseId": 0, "groupId": 0  },
+  { "id": "205001", "name": "Congedo", "firstName": "Antonio", "courseId": 1, "groupId": 0  },
+  { "id": "239041", "name": "D\"Agostino", "firstName": "Simona", "courseId": 0, "groupId": 0  },
+  { "id": "225345", "name": "Federico", "firstName": "MariaFrancesca", "courseId": 1, "groupId": 0  },
+  { "id": "253221", "name": "Filippini", "firstName": "Federico", "courseId": 1, "groupId": 0  },
+  { "id": "262621", "name": "Clot", "firstName": "Simone", "courseId": 0, "groupId": 0  },
+  { "id": "217343", "name": "Becchis", "firstName": "Elena", "courseId": 0, "groupId": 0  },
+  { "id": "217343", "name": "Rosso", "firstName": "Francesca", "courseId": 0, "groupId": 0  },
+  { "id": "217343", "name": "Santoro", "firstName": "Simone", "courseId": 1, "groupId": 0  },
+  { "id": "217343", "name": "Armando", "firstName": "Laura", "courseId": 1, "groupId": 0  }
+  ],
+  "courses": [ 
+    { "id": 1, "name": "Applicazioni Internet", "path": "applicazioniinternet"} 
+  ],
+  "groups": [ 
+    { "id": 1, "name": "Calvary" } 
+  ]
 }
