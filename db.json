@@ -1,0 +1,7 @@
+{
+"students": [ { "id": 1, "serial": "265373", "name": "ALICINO", "firstName":
+"GIUSEPPE", "courseId": 1, "groupId": 0 } ],
+"courses": [ { "id": 1, "name": "Applicazioni Internet", "path": "applicazioniinternet"
+} ],
+"groups": [ { "id": 1, "name": "Calvary" } ]
+}
