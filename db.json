@@ -1,7 +1,7 @@
 {
   "students": [ 
     
-  { "id": "222333", name: "Folcarelli", "firstName": "Giovanni", "courseId": 1, "groupId": 0 },
+  { "id": "222333", "name": "Folcarelli", "firstName": "Giovanni", "courseId": 1, "groupId": 0 },
   { "id": "254663", "name": "Giai", "firstName": "Andrea", "courseId": 1, "groupId": 0 },
   { "id": "276554", "name": "Angarano", "firstName": "Simone", "courseId": 1, "groupId": 0 },
   { "id": "266211", "name": "Zandri", "firstName": "Elena Maria", "courseId": 0, "groupId": 0  },
